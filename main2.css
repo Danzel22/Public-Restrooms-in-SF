@@ -1,0 +1,162 @@
+
+
+/* .background{
+    background-image: url("gg\ briddge.gif");
+    min-height: 1000px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1600px 800px;
+    background-color: darkgray;
+    filter: opacity(80%);
+    }
+  
+  
+  .hero-text {
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    
+    
+  } */
+  
+  /* h1 {
+    text-shadow: 5px 5px 10px black;
+    font-size: 50px;
+  }
+  
+  
+  
+  .about {
+    text-shadow: 5px 5px 10px black;
+    font-size: 20px;
+  
+  
+  }
+   */
+  
+  .locations { 
+    background-image: url("sf\ pier.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:  cover;
+    background-attachment: fixed;
+    height: auto;
+    filter: grayscale(70%);
+    background-color: darkgray;
+  }
+
+  #top {
+    color: white;
+    text-shadow: 5px 5px 10px black;
+  }
+    
+  /* .map {
+    background-image: url('sf\ timelapse.gif');
+    min-height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1600px 800px;
+    background-color: darkgray;
+    filter: grayscale(70%);
+  }
+   */
+  h2 {
+    text-align: center;
+    color: white;
+  
+  }
+  
+  .neighborhood {
+    background-position: center;
+    background-size: 800px 800px;
+  }
+  
+  /* img {
+    width: 18rem;
+    height:250px;
+  
+  } */
+  
+  .list-view {
+    display: flex inline-block;
+    columns: 3;
+    width: 90%;
+    text-align: center;
+    /* height: 1800px; */
+    /* flex-wrap: nowrap; */
+    justify-content: space-evenly;
+    margin-right: 200px;
+    height: 1800px;
+    
+  }
+  
+  .p {
+    bottom:20%;
+    right:20%;
+    color: white;
+    font-size: 30px;
+  }
+  
+  /* .bay-area {
+    background-image: url("sf\ dolores.jpg");
+    background-repeat:no-repeat;
+    max-width: 100;
+    height: 600px;
+    filter: grayscale(50%);
+    background-attachment: scroll;
+    background-color: lightgray;
+    background-size: 1200px 500px;
+  
+  
+  } */
+  
+  /* .quote1 {
+    font-size: 40px;
+    float: right;
+    top: 50%;
+    
+   */
+  /* } */
+  
+  .card {
+    margin-bottom: 100px;
+    position: center;
+    
+    
+  }
+  
+  .card img {
+    width: 18rem;
+    height: 200px;
+  }
+  
+  /* .quote2 {
+    background-image: url(best-photo-spots-in-SF-treasure-island.jpg);
+    font-size: 40px;
+  }
+  
+   */
+
+   /* .detail-view{
+    display: flex inline-block;
+    /* height: 550px; */
+    /* top: 50px;
+   } */ 
+
+   .content {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    height: auto;
+    }
+
+   .card-deck img {
+     height: 100%;
+     width: 100%;
+
+    }
